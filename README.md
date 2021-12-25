@@ -1,2 +1,3 @@
 # PatikaFrontEndWebDevelopment
-## Odev 1 
+## Odev 1 ve Odev 2
+
