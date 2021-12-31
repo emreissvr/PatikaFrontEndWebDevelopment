@@ -1,3 +1,3 @@
 # PatikaFrontEndWebDevelopment
 
-![simple recipe site homework](http://127.0.0.1:5501/Odev3.html)
+![simple recipe site homework](Ekran görüntüsü 2021-12-31 215313.png)
