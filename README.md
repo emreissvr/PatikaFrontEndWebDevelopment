@@ -1,3 +1,3 @@
 # PatikaFrontEndWebDevelopment
 
-![simple recipe site homework](Ekran görüntüsü 2021-12-31 215313.png)
+![simple recipe site homework](Ekrangörüntüsü2021-12-31215313.png)
