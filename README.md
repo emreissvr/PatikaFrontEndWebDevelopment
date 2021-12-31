@@ -1,3 +1,3 @@
 # PatikaFrontEndWebDevelopment
 
-![simple recipe site homework](file:///C:/Users/emreo/Desktop/Kodluyoruz/kodluyoruz-frontend-101-egitimi/html/Odev3.html)
+![simple recipe site homework](http://127.0.0.1:5501/Odev3.html)
